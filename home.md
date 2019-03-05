@@ -1,6 +1,6 @@
 This site is dedicated to the organization of the CGO conferences. It is meant to assist new CGO organizers by benefiting from the experience of past organizers.
 The information is organized as follows:
-* All [Steering Committee](sc/home) related information (notes, membership, logistics, policies,...)
+* All [Steering Committee](sc/home.md) related information (notes, membership, logistics, policies,...)
 * A Whiteboard for on-going discussions, issues, suggestions, etc
 * A [How To](howto/home) on CGO conference organization: a generic step-by-step description of the tasks of the CGO organizer, and a set of associated advices.
 * Information about past Sponsors
