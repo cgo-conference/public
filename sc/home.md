@@ -1,5 +1,5 @@
 * Minutes and meeting notes
-* [Membership](sc/members.md)
+* [Membership](members.md)
 * Logistics
 * Policies and guidelines
 * Charter
