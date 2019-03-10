@@ -1,1 +1,0 @@
-*  [NSF grants](howto/nsf)
