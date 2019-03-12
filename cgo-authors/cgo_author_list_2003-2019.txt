@@ -1,1139 +1,1139 @@
-A. Dreweke
-Aaron Smith
-Abbas Heydarnoori
-Abdurrahman Akkas
-Abhinav Das
-Abhishek Udupa
-Ada Gavrilovska
-Adarsh Yoga
-Aditya V. Thakur
-Ajay Panyala
-Alain Darte
-Alain Ketterlin
-Alan Edelman
-Alastair Colin Murray
-Alban Douillet
-Albert Cohen 0001
-Albert Hartono
-Alberto Magni
-Alberto Ros
-Alejandro Martínez
-Aleksandar Brankovic
-Aleksandar Prokopec
-Alen Bardizbanyan
-Alen Stojanov
-Alex Aletà
-Alex Bennée
-Alex Settle
-Alex Shye
-Alexander Astapchuk
-Alexander Klaiber
-Alexandra Jimborean
-Alexandre Duchateau
-Alexandre E. Eichenberger
-Alexey Spiridonov
-Ali-Reza Adl-Tabatabai
-Alok Mishra
-Amir Hormati
-Amir Kavyan Ziabari
-Amit Sasturkar
-Amoghavarsha Suresh
-Amy Wang
-Anand Venkat
-Anant Agarwal
-Andrea Rosà
-Andreas Fried
-Andreas Koch 0001
-Andreas Sembrant
-Andrei Homescu
-Andrew Adams
-Andrew Anderson 0001
-Andrew Kerr
-Andrès Márquez
-André Seznec
-Andy Georges
-Andy Yoo
-Ang Li
-Angela Demke Brown
-Anne M. Holler
-Anshuman Dasgupta
-Ansuman Banerjee
-Antonia Zhai
-Antonio González 0001
-Anupama Chandrasekhar
-Anwar M. Ghuloum
-Apan Qasem
-Aravind Sukumaran-Rajam
-Ari B. Hayes
-Ari Schmorak
-Aritra Sengupta
-Armand Navabi
-Arquimedes Canedo
-Artem Belevich
-Artem Pyatakov
-Artur Andrzejak
-Arun Raman
-Arvind K. Sujeeth
-Ashish Misra
-Ashwin M. Aji
-Atanas Rountev
-Ava Jarvis
-Ayal Zaks
-Banit Agrawal
-Barbara M. Chapman
-Bastiaan Aarts
-Bastian Hagedorn
-Ben H. H. Juurlink
-Ben Hardekopf
-Ben Hertzberg
-Ben Mehne
-Benjamin Vitale
-Benoit Boissinot
-Benoît Dupont de Dinechin
-Bernhard Egger
-Bernhard Scholz
-Bertrand A. Maher
-Bertrand Maher
-Bharath Narasimha Swamy
-Bhaskar Sardar
-Biagio Cosenza
-Bilha Mendelson
-Bill Nell
-Bill Yoder
-Bin Bao
-Bin Ren
-Bingsheng He
-Biruk Mammo
-Biwei Xie
-Bjarke Roune
-Björn Franke
-Bo Huang 0002
-Bo Qiao
-Bo Wu 0002
-Bolei Guo
-Boubacar Diouf
-Brad Calder
-Brandon Lucia
-Brandon Neth
-Bratin Saha
-Breno Guimaraes
-Brian Demsky
-Brian Fahs
-Brian Grant
-Brian R. Murphy
-Brian T. Lewis
-Bronis R. de Supinski
-Bruce R. Childers
-Buqi Cheng
-Byoungro So
-Byron Hawkins
-Calvin Lin
-Camil Demetrescu
-Carol Eidt
-Catherine Olschanowsky
-Chadi Akel
-Chandra Krintz
-Changhee Jung
-Chao Li 0004
-Chao Wang
-Chao Zhang
-Charles Anderson
-Charles Tucker
-Chelsea LeBlanc
-Chen Ding
-Cheng Wang 0013
-Chenggang Wu
-Chengliang Zhang
-Chi-Keung Luk
-Chien-Min Wang
-Choonki Jang
-Chris C. J. Newburn
-Chris Cummins
-Chris Grzegorczyk
-Chris J. Newburn
-Chris Lattner
-Chris Leary
-Christian Tenllado
-Christian Wimmer
-Christof Fetzer
-Christophe Dubach
-Christophe Guillon
-Christopher B. Colohan
-Christopher Curtis
-Christopher De Sa
-Christopher Erb
-Christopher I. Rodrigues
-Christopher K. I. Williams
-Christopher Lupo
-Christopher R. Aberger
-Christos D. Antonopoulos
-Christos Margiolas
-Chun Chen
-Chun-Chen Hsu
-Chunling Hu
-Clark Verbrugge
-Congming Chen
-Corinne Ancourt
-Cosmin E. Oancea
-Craig B. Zilles
-Cristiano Pereira
-Cy P. Chan
-Cédric Bastoul
-D. Schell
-Dacong Yan
-Dan Connors
-Dan Zhang
-Daniel A. Connors
-Daniel Berlin
-Daniel Cordes
-Daniel Grund
-Daniel M. Lavery
-Daniel Maier
-Daniel T. Grissom
-Daniel W. Williams
-Daniele Bonetta
-Daniele Cono D&apos;Elia
-Daniele G. Spampinato
-Danilo Ansaloni
-Darko Kirovski
-Daryl Maier
-David A. Padua
-David B. Whalley
-David Black-Schaffer
-David Detlefs
-David Dice
-David Eklov
-David F. Richards
-David Gregg
-David Grove
-David I. August
-David Koes
-David L. Dill
-David Leopoldseder
-David M. Brooks
-David R. Kaeli
-David Ryan Koes
-David Wentzlaff
-David Xinliang Li
-David Yuste
-Dayong Gu
-Deepak Majeti
-Dehao Chen
-Denis Barthou
-Depei Qian
-Derek Bruening
-Dhruva R. Chakrabarti
-Di Xu
-Diego Costa
-Diego Fabregat-Traver
-Ding Ye
-Ding-Yong Hong
-Dirk Grunwald
-Dominik Grewe
-Dominique Chanet
-Donald Yeung
-Dong Nguyen
-Dong-Heon Jung
-Dong-yuan Chen
-Donghwan Jeon
-Dongkeun Kim
-Dongrui Fan
-Dongyoon Lee
-Dorit Nuzman
-Doug Burger
-Doug Simon
-Douglas W. Clark
-Du Shen
-Duane Szafron
-Duseok Kang
-Easwaran Raman
-Eddie C. Davis
-Eddy Z. Zhang
-Edson Borin
-Eduardo Rosales
-Edward Lee
-Edward S. Davidson
-Edwin V. Bonilla
-Eli Bendersky
-Emanuele Del Sozzo
-Emilio Coppa
-Emilio G. Cota
-Emmanuel Yashchin
-Enric Gibert
-Erez Perelman
-Eric D. Marsman
-Eric Kaczmarek
-Eric Lin
-Eric Van Hensbergen
-Erick Bauman
-Erik Eckstein
-Erik Hagersten
-Erik R. Altman
-Erven Rohou
-Esfir Natanzon
-Eunjung Park
-Evelyn Duesterwald
-Evgeniy Stepanov
-Evgueni Brevnov
-F. Jesús Sánchez
-Fabrice Rastello
-Fang Lu
-Fei Hua
-Felix V. Agakov
-Feng Li
-Feng Liu
-Feng Mao
-Feng Qian
-Feng Zhang
-Feng Zhang 0007
-Fernando Magno Quintao Pereira
-Fernando Magno Quintão Pereira
-Filippo Schiavio
-Florent Bouchez
-Florian T. Schneider
-Francesco Spadini
-Francky Catthoor
-Frank Hannig
-Frank Mueller
-François de Ferrière
-Fredrik Kjolstad
-Frédéric de Mesmay
-Gabriel Rodríguez 0001
-Gadi Haber
-Gagan Agrawal
-Ganesh S. Dasika
-Gang Chen
-Gansha Wu
-Garry P. Nolan
-Gary S. Tyson
-Gem Dot
-George A. Reis
-Gerolf Hoflehner
-Gilles Duboscq
-Girish Mururu
-Glenn H. Holloway
-Graham D. Price
-Greg Bronevetsky
-Gregory F. Diamos
-Gregory Frederick Diamos
-Gregory Lueck
-Gregory R. Andrews
-Gregory Rodgers
-Grigori Fursin
-Gu-Yeon Wei
-Guang R. Gao
-Guangli Li
-Guangyu Chen
-Guei-Yuan Lueh
-Guido Araujo
-Guilherme Ottoni
-Guilin Chen
-Guofei Jiang
-Guoqing (Harry) Xu
-Hai Jin 0001
-Haicheng Wu
-Haichuan Wang
-Haifeng He
-Haitao Wei
-Haiyang Sun
-Hanjun Kim
-Hans-Juergen Boehm
-Hanspeter Mössenböck
-Hao Zhou
-Harish Patil
-Hee-Seok Kim
-Heidi E. Ziegler
-Heiko Falk
-Henk Corporaal
-Henrik Barthels
-Henrique Nazaré Santos
-Hideaki Komatsu
-Hiroshi Inoue
-Hiroshige Hayashizaki
-Ho-Seop Kim
-Hochan Lee
-Hoi Vo
-Hong Wang 0003
-Hongbo Rong
-Hongjun Choi
-Hongtao Yu
-Hongwei Liao
-Hongyu Liu
-Howard Chen
-Hridesh Rajan
-Hsien-Hsin S. Lee
-Huafei Yu
-Hugh Leather
-Hui Zhang 0002
-Huibo Wang
-Huimin Cui
-Huiyang Zhou
-Huynh Phung Huyng
-Huynh Phung Huynh
-Hyeong-Seok Oh
-Hyesoon Kim
-HyoukJoong Lee
-Hyoun Kyu Cho
-Hyunchul Park
-Hyunchul Park 0001
-Ian Buck
-Ian Gartley
-Ignacio Laguna
-Igor Böhm
-Igor Rafael de Assis Costa
-Ingrid Fischer
-Inés Fernando Vega López
-Ioana Cutcutache
-Ira Rosen
-Irene Finocchi
-Iulian Neamtiu
-Ivan D. Baev
-Ivan Jibaja
-Ivan Matosevic
-Ivaylo Toskov
-Izzat El Hajj
-J. Gregory Steffan
-J. Ramanujam
-Jack W. Davidson
-Jacob Nelson
-Jacqueline Chame
-Jacques A. Pienaar
-Jae W. Lee
-Jaejin Lee
-Jaewook Shin
-James A. Jablin
-James C. Dehnert
-James Cownie
-James E. Smith
-James E. Smith 0001
-James H. Burrill
-James M. Stichnoth
-James Pallister
-James R. Larus
-James Tuck
-James W. Thomas
-Jan C. Kleinsorge
-Jan Riehme
-Jan-Jan Wu
-Jason Ansel
-Jason Hiser
-Jason Mars
-Jason McCandless
-Jay Bharadwaj
-Jay P. Lim
-Jaydeep Marathe
-Jayvant Anantpur
-Jean Pierre Giacalone
-Jean-Francois Collard
-Jeanne Ferrante
-Jennifer Widom
-Jens Deussen
-Jeremy G. Siek
-Jeremy Lau
-Jesse Fang
-Jessica Ray
-Jia-Ju Bai
-Jialu Huang
-Jianfeng Zhan
-Jianhui Li
-Jianjun Li
-Jidong Zhai
-Jieshan Zhao
-Jim Mattson
-Jin Huang
-Jin Lin
-JinSeok Oh
-Jing Yu
-Jingling Xue
-Jingyue Wu
-Jinpyo Kim
-Jinquan Dai
-Jinsung Kim
-Jithendra Srinivas
-Jiwei Lu
-Johannes Doerfert
-John A. Stratton
-John Cavazos
-John Cuthbertson
-John Earnest
-John Feo
-John M. Mellor-Crummey
-John P. Banning
-John Paul Shen
-John Sartori
-John Thomson
-John Trimble
-Jon Calhoun
-Jon Gibson
-Jonas Maebe
-Jonatan Waern
-Jonathan Chang
-Jonathan Levesque
-Jong-Deok Choi
-Jongeun Lee
-Jordan Fix
-Josef Eisl
-Josep M. Codina
-Joseph B. Manzano
-Joseph L. Greathouse
-José A. Joao
-José Ignacio Gómez
-José M. Andión
-José Nelson Amaral
-Juan Carlos Juega
-Juan Gómez-Luna
-Juan Touriño
-Juan del Cuvillo
-Julian Oppermann
-Jun Lee
-Jun Liu 0008
-Junghwan Rhee
-Junjie Gu
-Junjie Lai
-Junqiao Qiu
-Junqing Yu
-Justin Emile Gottschlich
-Justin Holewinski
-Justin Quek
-Jürgen Teich
-Kai Tian
-Kaiyu Chen
-Kapil Vaswani
-Karthikeyan Sankaralingam
-Kathryn S. McKinley
-Kei Hiraki
-Keith D. Cooper
-Kenneth Hoste
-Kent D. Wilken
-Kerstin Eder
-Kevin Fan
-Kevin J. Brown
-Kevin O&apos;Brien
-Kevin Scott
-Kevin Williams
-Kim M. Hazelwood
-Kim-Anh Tran
-Kirk Kelsey
-Kiyoung Choi
-Koen De Bosschere
-Konrad Trifunovic
-Konstantin Bobrovsky
-Konstantin Serebryany
-Konstantinos Koukos
-Konstantinos Parasyris
-Kris Venstermans
-Krste Asanovic
-Kunle Olukotun
-Kyle Dewey
-Kyriakos Stavrou
-Lakshminarayanan Renganarayanan
-Lan Gao
-Lannan Luo
-Lap-Chung Lam
-Larisa Stoltzfus
-Larry Rudolph
-Lars Clausen
-Laure Gonnord
-Laurie J. Hendren
-Lawrence C. McAfee
-Lawrence Rauchwerger
-Lei Liu
-Lei Shang 0002
-Lei Wang 0004
-Leonardo Barbosa e Oliveira
-Li Tan
-Liang Han
-Lide Duan
-Lieven Eeckhout
-Linchuan Chen
-Lingjia Tang
-Lixia Liu
-Lixin Su
-Lixin Zhang 0002
-Lizy Kurian John
-Long Li
-Long Zheng 0003
-Lou J. Somers
-Louis-Noël Pouchet
-Luca Della Toffola
-Luca P. Carloni
-Luis A. Lozano
-Luis Ceze
-Lujie Zhong
-Lukas Sommer
-Lukas Stadler
-Luke N. Olson
-Luís F. W. Góes
-Lydia Y. Chen
-Lénaïc Bagnères
-M. Aater Suleman
-Mack Stallcup
-Madhavi Gopal Valluri
-Maged M. Michael
-Magnus Själander
-Mahmut T. Kandemir
-Maksim Panchenko
-Malcom Gethers
-Malek Ben Romdhane
-Man Cao
-Manish K. Gupta
-Manish Vachharajani
-Manjunath Kudlur
-Mansureh S. Moghaddam
-Manu Shantharam
-Marc Berndl
-Marc González Tallada
-Marc Snir
-Marc Toussaint
-Marc Wörlein
-Marc de Kruijf
-Marcel Baunach
-Marcel Köster
-Marcelo Cintra
-Marcin Copik
-Marco A. Alvarez
-Marcos Yukio Siraichi
-Marcus Rodrigues
-Marek Olszewski
-Marius Pirvu
-Mark G. Stoodley
-Mark Hampton
-Mark Heffernan
-Mark Stephenson
-Markus Püschel
-Maroua Maalej
-Marsha Eng
-Martha A. Kim
-Martin Burtscher
-Martin Kong
-Martin Meinhold
-Martin Schulz 0001
-Martin Süßkraut
-Martin Thuresson
-Mary Lou Soffa
-Mary W. Hall
-María Jesús Garzarán
-Mateus Tymburibá
-Mathew Zaleski
-Mats Brorsson
-Matthew Arnold
-Matthew Ho
-Matthew J. Bridges
-Matthew J. Thazhuthaveetil
-Mauricio Breternitz Jr.
-Mauricio J. Serrano
-Maxim Gurevich
-Mehdi Amini
-Melanie Kambadur
-Mian Lu
-Miaobo Chen
-Michael Bedford Taylor
-Michael D. Bond
-Michael D. Linderman
-Michael D. McCool
-Michael D. Smith 0001
-Michael Dupré
-Michael F. P. O&apos;Boyle
-Michael F. Spear
-Michael Franz
-Michael Garland
-Michael Hind
-Michael K. Chen
-Michael Kruse
-Michael L. Chu
-Michael L. Scott
-Michael Philippsen
-Michael Pradel
-Michal Cierniak
-Michel Steuwer
-Michelle Mills Strout
-Mihai Budiu
-Mihail Popov
-Mikael Collin
-Mike Collins
-Mike Fulton
-Mike Murphy
-Mikhail Smelyanskiy
-Mikko H. Lipasti
-Milenko Drinic
-Milind Chabbi
-Milind Girkar
-Milind Kulkarni 0001
-Milo M. K. Martin
-Min Feng 0001
-Min Zhao
-Mingwei Zhang
-Misiker Tadesse Aga
-Mithuna Soundararaj
-Mojtaba Mehrara
-Molham Aref
-Moriyoshi Ohara
-Moshe Klausner
-Motohiro Kawahito
-Moumita Das
-Murali Krishna Emani
-Murray Cole
-Mustafa Karaköy
-Muthu Manikandan Baskaran
-Myra B. Cohen
-Naftali Schwartz
-Naila Farooqui
-Nana B. Sam
-Nathalie Drach
-Nathan Chong
-Nathan Clark
-Naveen Kumar 0002
-Naveen Neelakantam
-Naznin Fauzia
-Neil Birkbeck
-Neil Vachharajani
-Nicholas Nethercote
-Nick P. Johnson
-Nicolas Vasilache
-Nikola Grcevski
-Nikolaos Bellas
-Nikos Nikoleris
-Nilanjan Goswami
-Nipun Arora
-Nir Shavit
-Niranjan Hasabnis
-Nisheeth Shrivastava
-Nishkam Ravi
-Norm Rubin
-Oleksandr Zinenko
-Oliver Reiche
-Olivier Temam
-Onur Mutlu
-Orna Etzion
-Oscar Castro-Lopez
-Ozcan Ozturk 0001
-P. Geoffrey Lowney
-P. J. Joseph
-P. Sadayappan
-Pablo de Oliveira Castro
-Pangfeng Liu
-Pankaj Mistry
-Paolo Bientinesi
-Paolo Bonzini
-Patricia Suriana
-Patrick Carribault
-Patrick W. Sathyanathan
-Paul Berube
-Paul Lokuciejewski
-Paul Yuan
-Pavlos Petoumenos
-Pedro Ramos
-Pen-Chung Yew
-Peng Di
-Peng Guo
-Peng Jiang
-Peng Liu
-Peng Liu 0005
-Peng Wu 0001
-Per Ekemark
-Per Larsen
-Per Larsson-Edefors
-Per Stenström
-Perry H. Wang
-Peter Ahrens
-Peter F. Sweeney
-Peter Gavin
-Peter Marwedel
-Philip Brisk
-Philip Ginsbach
-Philippe Clauss
-Pierre Salverda
-Po-Yu Chen
-Pracheeti D. Nagarkar
-Prakash Prabhu
-Pramod G. Joisha
-Pramod Ramarao
-Prasad A. Kulkarni
-Prasanna Pandit
-Prateek Saxena
-Pratik Ashar
-Praveen Yedlapalli
-Prithviraj Banerjee
-Priya Nagpurkar
-Probir Roy
-Péricles Rafael Oliveira Alves
-Qi Guo
-Qi Zhang
-Qiang Wu
-Qiang Zeng 0001
-Qin Zhao
-Qing Jiao
-Qing Yi
-Qinggang Wang
-Qiong Cai
-R. Govindarajan
-R. Sekar
-Rafael Auler
-Rafael Ubal
-Rahul Joshi
-Rajeshwar Vanka
-Rajiv A. Ravindran
-Rajiv Gupta 0001
-Rajkishore Barik
-Rakesh Krishnaiyer
-Raksit Ashok
-Ralf Karrenberg
-Ram Rangan
-Ramaswamy Govindarajan
-Ramesh Peri
-Ramon Canal
-Ramshankar Chouhan
-Raphael Ernani Rodrigues
-Rashid Kaleem
-Rayson Ho
-Raúl Silvera
-Reetuparna Das
-Rei Odaira
-Reid Copeland
-Renata Martins Gomes
-Ricardo Nabinger Sanchez
-Ricardo Rodriguez
-Richard B. Brown
-Richard E. Hank
-Richard Henderson
-Richard Johnson
-Richard T. Snodgrass
-Richard Wolski
-Rick Siow Mong Goh
-Riyadh Baghdadi
-Rob Springer
-Robert Cohn
-Robert Griesemer
-Robert H. Kuhn
-Robert Hundt
-Robert M. Senger
-Robert Muth
-Robert S. Cohn
-Robert S. Schreiber
-Roberto Palmieri
-Robin Kruppe
-Robyn Sampson
-Rodric M. Rabbah
-Rodrigo C. O. Rocha
-Roland Leißa
-Romolo Marotta
-Roni Rosner
-Ronny Krashinsky
-Rubens E. A. Moreira
-Rudolf Eigenmann
-Rui Qiao
-Rui Wang 0014
-Rui Zhang
-Ruiqin Tian
-Ruizhe Zhao
-Rupesh Nasre
-S. Velusamy
-Sain-Zee Ueng
-Sally A. McKee
-Sam Ainsworth
-Sam Kamin
-Sam S. Stone
-Sam Silvestro
-Saman P. Amarasinghe
-Sameer Kulkarni
-Sander Stuijk
-Sandhya Viswanathan
-Sandro Bartolini
-Sandya Mannarswamy
-Sandya S. Mannarswamy
-Sanghoon Lee 0006
-Sangmin Seo
-Sanjay J. Patel
-Sanjay V. Rajopadhye
-Sanjeev Banerji
-Sanket Tavarageri
-Santosh Nagarakatte
-Santosh Pande
-Sara S. Baghsorkhi
-Sara-Jane Dunn
-Sasa Misailovic
-Sascha Plazar
-Saturnino Garcia
-Saumya Debray
-Saumya K. Debray
-Saurabh Bagchi
-Savvas Sioutas
-Scott A. Mahlke
-Scott McFarling
-Sean Baxter
-Sebastian Buchwald
-Sebastian Hack
-Sebastian Winkel
-Semih Salihoglu
-Sergei Dyshel
-Sergei Gorlatch
-Seth Copen Goldstein
-Seung Woo Son
-Shai Rotem
-Shalom Goldenberg
-Shane Ryoo
-Shashidhar Mysore
-Sheng-Yu Fu
-Shengqian Yang
-Shi-Min Hu
-Shih-Wei Liao
-Shih-wei Liao
-Shiliang Hu
-Shin-Ming Liu
-Shiqing Ma
-Shiwen Hu
-Shoaib Kamil
-Shruthi Hebbur Prasanna Kumar
-Shu Xu
-Shuaiwen Leon Song
-Shuhan Ding
-Silvius Rus
-Simon D. Hammond
-Simon Garcia De Gonzalo
-Simon J. Hollis
-Simone Campanoni
-Sitao Huang
-Soham Chakraborty
-Somu Perianayagam
-Soner Önder
-Song Wu 0001
-Soo-Mook Moon
-Soonhoi Ha
-Soumyadeep Ghosh
-Spyridon Triantafyllis
-Spyros Lalis
-Srimat T. Chakradhar
-Sriram Krishnamoorthy
-Sriraman Tallam
-Stefan Brunthaler
-Stefan Schäckeler
-Stefan Weigert
-Stefanos Kaxiras
-Stefanus Du Toit
-Stephen J. Fink
-Stephen M. Blackburn
-Stephen R. Beard
-Stephen W. Keckler
-Steve Zdancewic
-Steven Neisius
-Steven S. Lumetta
-Steven Wallace
-Stéphane Huot
-Stéphane Lafortune
-Subhajit Roy
-Subhash Suri
-Subrata Mitra
-Sudhakar Yalamanchili
-Suhyun Kim
-Sukjin Kim
-Sungdo Moon
-Sungpack Hong
-Sunil Shrestha
-Sunil Soman
-Surender Baswana
-Suresh Jagannathan
-Suresh Srinivas
-Susanta Nanda
-Sven Verdoolaege
-Sylvain Collange
-Sébastien Donadio
-Taewook Oh
-Takeo Yoshizawa
-Takuya Nakaike
-Tao Li 0006
-Tao Zhang
-Tarek S. Abdelrahman
-Tatiana Shpeisman
-Tatsushi Inagaki
-Taylan Yemliha
-Ten H. Tzen
-Terence Kelly
-Teresa H. Y. Meng
-Teresa Johnson
-Thiago S. F. X. Teixeira
-Thomas B. Jablin
-Thomas Henretty
-Thomas Kistler
-Thomas Knauth
-Thomas Kotzmann
-Thomas R. Gross
-Thomas Raoux
-Thomas Würthinger
-Thorsten Meinl
-Tianshi Chen
-Tiark Rompf
-Tim Sheard
-Timothy Garnett
-Timothy M. Jones 0001
-Timothy Mattson
-Timothy Sherwood
-Ting Cao
-Tipp Moseley
-Tobias Grosser
-Tobias J. K. Edler von Koch
-Todd C. Mowry
-Todd M. Austin
-Todd Mytkowicz
-Tom Conte
-Tomi Poutanen
-Tomofumi Yuki
-Tong Chen
-Tongping Liu
-Tongxin Bai
-Toomas Remmelg
-Toshihiko Koju
-Toshio Nakatani
-Trevor E. Carlson
-Trevor N. Mudge
-Tulika Mitra
-Tushar Mohan
-Twan Basten
-Tyler Sondag
-Tzi-cker Chiueh
-Tzu-Han Hung
-Uma Srinivasan
-Ute Schiffel
-Uwe Naumann
-V. Krishna Nandivada
-V. T. Rajan
-Vadim Eisenberg
-Vaivaswatha Nagaraj
-Valeria Bertacco
-Valery Ushakov
-Varun Puranik
-Vasileios Porpodas
-Vasileios Spiliopoulos
-Vassilis Vassiliadis
-Victor Hugo Sperle Campos
-Victor Ying
-Vijay Janapa Reddi
-Vijay Menon
-Vijay Sundaresan
-Vikram S. Adve
-Viktor Vafeiadis
-Vineeth Kashyap
-Vineeth Thumma
-Vinod Grover
-Vinodha Ramasamy
-Vinícius Fernandes dos Santos
-Vitor Paisante
-Vivek Sarkar
-Vlad-Mihai Panait
-Vladimir Kiriansky
-Wai Teng Tang
-Walter Binder
-Wanling Gao
-Wei Ding
-Wei Hu
-Wei Huo
-Wei Li 0020
-Wei Liu
-Wei Liu 0014
-Wei Pan
-Wei-Chung Hsu
-Wei-Yu Chen
-Weihaw Chuang
-Weijia Shang
-Weimin Zheng
-Weiwu Hu
-Wen-Chuan Lee
-Wen-Mei Hwu
-Wen-mei W. Hwu
-Weng-Fai Wong
-Wenguang Chen
-Wenjia Ruan
-Wenlei He
-William Arthur
-William F. Ogilvie
-William Gropp
-William Jalby
-Witawas Srisa-an
-Wolfram Schulte
-Xavier Leroy
-Xiang Gong
-Xiang Zou
-Xiangke Liao
-Xiangyu Zhang
-Xiangyu Zhang 0001
-Xiaobing Feng 0002
-Xiaochun Zhang
-Xiaofei Liao
-Xiaojiang Du
-Xiaoming Li
-Xiaoru Dai
-Xiaotong Zhuang
-Xiaoyin Wang
-Xibai Li
-Xing Su
-Xing Zhou
-Xinliang D. Li
-Xinmin Tian
-Xinwei Fu
-Xinwei Xie
-Xipeng Shen
-Xiwen He
-Xu Liu
-Xu Liu 0001
-Xuetian Weng
-Y. N. Srikant
-Yale N. Patt
-Yan Wang
-Yan-Hao Chen
-Yang Ni
-Yang Yang
-Yaoqing Gao
-Yee Lok Wong
-Yeh-Ching Chung
-Yeonbok Lee
-Yevgen Voronenko
-Yi Yang
-Yin Wang 0001
-Yingqi Liu
-Yoav Almog
-Yoav Zach
-Yonghae Kim
-Yonghua Ding
-Yongjian Chen
-Yongpeng Zhang
-Yoonseo Choi
-Youfeng Wu
-Young Wang
-Youngchul Cho
-Yu Shang
-Yu-Ping Wang
-Yuan Lin 0002
-Yuanrui Zhang
-Yue Li 0006
-Yuelu Duan
-Yujie Liu
-Yulei Sui
-Yun Liang 0001
-Yun Zhang 0005
-Yun Zou
-Yunji Chen
-Yunlian Jiang
-Yunlong Xu
-Yunming Zhang
-Yunsup Lee
-Yuriy Kashnikov
-Zehra Sura
-Zhanglin Liu
-Zhaohui Du
-Zhaoqing Zhang
-Zhelong Pan
-Zhen Jia
-Zhen Lin
-Zheng Wang 0001
-Zhenjiang Wang
-Zhenying Liu
-Zhi-Gang Wang
-Zhijia Zhao 0001
-Zhiqiang Lin
-Zhiyuan Li
-Zhiyun Qian
-Zhizhong Tang
-Zhongliang Chen
-Zhoujun Li
-Ziang Hu
-Zoltan Majo
-Zoltán Herczeg
+Scott A. Mahlke, 13
+David I. August, 12
+Jingling Xue, 11
+Robert Hundt, 11
+Saman P. Amarasinghe, 10
+Wei-Chung Hsu, 10
+Youfeng Wu, 10
+Mahmut T. Kandemir, 9
+Cheng Wang 0013, 8
+Michael F. P. O&apos;Boyle, 8
+Derek Bruening, 7
+Fernando Magno Quintão Pereira, 7
+Pen-Chung Yew, 7
+R. Govindarajan, 7
+Xu Liu 0001, 7
+Antonio González 0001, 6
+David A. Padua, 6
+Easwaran Raman, 6
+Fabrice Rastello, 6
+Kunle Olukotun, 6
+Mary Lou Soffa, 6
+Neil Vachharajani, 6
+Xiaobing Feng 0002, 6
+Albert Cohen 0001, 5
+Jason Mars, 5
+John Cavazos, 5
+Mark G. Stoodley, 5
+Markus Püschel, 5
+P. Sadayappan, 5
+Qin Zhao, 5
+Rajiv Gupta 0001, 5
+Sebastian Hack, 5
+Tipp Moseley, 5
+Zheng Wang 0001, 5
+Ali-Reza Adl-Tabatabai, 4
+Björn Franke, 4
+Bruce R. Childers, 4
+Chandra Krintz, 4
+Chenggang Wu, 4
+Craig B. Zilles, 4
+David Xinliang Li, 4
+Dhruva R. Chakrabarti, 4
+Edson Borin, 4
+Guang R. Gao, 4
+Guilherme Ottoni, 4
+Hanspeter Mössenböck, 4
+Harish Patil, 4
+Hugh Leather, 4
+Kim M. Hazelwood, 4
+Louis-Noël Pouchet, 4
+Mary W. Hall, 4
+María Jesús Garzarán, 4
+Peng Wu 0001, 4
+Thomas B. Jablin, 4
+Timothy M. Jones 0001, 4
+Todd M. Austin, 4
+Vijay Janapa Reddi, 4
+Vijay Sundaresan, 4
+Wen-mei W. Hwu, 4
+Aaron Smith, 3
+Alexandra Jimborean, 3
+Atanas Rountev, 3
+Ben Hardekopf, 3
+Brian T. Lewis, 3
+Christian Wimmer, 3
+Christos Margiolas, 3
+Cristiano Pereira, 3
+Daniele G. Spampinato, 3
+David B. Whalley, 3
+David Black-Schaffer, 3
+David R. Kaeli, 3
+Edwin V. Bonilla, 3
+Gagan Agrawal, 3
+Gregory Lueck, 3
+Guei-Yuan Lueh, 3
+Hideaki Komatsu, 3
+Hongbo Rong, 3
+Hyesoon Kim, 3
+Jack W. Davidson, 3
+James Tuck, 3
+Jesse Fang, 3
+Jialu Huang, 3
+Jianjun Li, 3
+John A. Stratton, 3
+John M. Mellor-Crummey, 3
+José Nelson Amaral, 3
+Jun Liu 0008, 3
+Kathryn S. McKinley, 3
+Lei Wang 0004, 3
+Lieven Eeckhout, 3
+Manish Vachharajani, 3
+Matthew J. Thazhuthaveetil, 3
+Mauricio Breternitz Jr., 3
+Michael D. Bond, 3
+Michelle Mills Strout, 3
+Nick P. Johnson, 3
+Onur Mutlu, 3
+Pavlos Petoumenos, 3
+R. Sekar, 3
+Ram Rangan, 3
+Ramaswamy Govindarajan, 3
+Rodrigo C. O. Rocha, 3
+Santosh Nagarakatte, 3
+Seth Copen Goldstein, 3
+Shiliang Hu, 3
+Shoaib Kamil, 3
+Stefanos Kaxiras, 3
+Tatiana Shpeisman, 3
+Thomas Würthinger, 3
+Tobias Grosser, 3
+Toshio Nakatani, 3
+Uma Srinivasan, 3
+Vasileios Porpodas, 3
+Walter Binder, 3
+Wei Ding, 3
+Wei-Yu Chen, 3
+Weng-Fai Wong, 3
+Xiangyu Zhang 0001, 3
+Xiaotong Zhuang, 3
+Y. N. Srikant, 3
+Yuanrui Zhang, 3
+Yulei Sui, 3
+Abhinav Das, 2
+Alain Darte, 2
+Alban Douillet, 2
+Alexandre Duchateau, 2
+Alexandre E. Eichenberger, 2
+André Seznec, 2
+Antonia Zhai, 2
+Arun Raman, 2
+Benoit Boissinot, 2
+Benoît Dupont de Dinechin, 2
+Bin Ren, 2
+Bingsheng He, 2
+Bo Huang 0002, 2
+Brad Calder, 2
+Brian Demsky, 2
+Brian R. Murphy, 2
+Byoungro So, 2
+Byron Hawkins, 2
+Camil Demetrescu, 2
+Chen Ding, 2
+Christophe Dubach, 2
+Christophe Guillon, 2
+Chunling Hu, 2
+Cédric Bastoul, 2
+Dacong Yan, 2
+Daniel M. Lavery, 2
+David Gregg, 2
+David Grove, 2
+David Leopoldseder, 2
+David M. Brooks, 2
+Dehao Chen, 2
+Denis Barthou, 2
+Dirk Grunwald, 2
+Dong-yuan Chen, 2
+Dorit Nuzman, 2
+Doug Simon, 2
+Eddy Z. Zhang, 2
+Edward S. Davidson, 2
+Enric Gibert, 2
+Erik Hagersten, 2
+Erven Rohou, 2
+Eunjung Park, 2
+F. Jesús Sánchez, 2
+Felix V. Agakov, 2
+Feng Mao, 2
+Frank Mueller, 2
+Gansha Wu, 2
+Gary S. Tyson, 2
+Glenn H. Holloway, 2
+Grigori Fursin, 2
+Gu-Yeon Wei, 2
+Guilin Chen, 2
+Hai Jin 0001, 2
+Heiko Falk, 2
+Ho-Seop Kim, 2
+Howard Chen, 2
+Huimin Cui, 2
+Hyoun Kyu Cho, 2
+Jacqueline Chame, 2
+Jacques A. Pienaar, 2
+Jae W. Lee, 2
+James E. Smith, 2
+James E. Smith 0001, 2
+Jaydeep Marathe, 2
+Jayvant Anantpur, 2
+Jithendra Srinivas, 2
+Jiwei Lu, 2
+Josep M. Codina, 2
+Joseph L. Greathouse, 2
+Kapil Vaswani, 2
+Kenneth Hoste, 2
+Kevin Fan, 2
+Kevin Williams, 2
+Konstantinos Koukos, 2
+Krste Asanovic, 2
+Laure Gonnord, 2
+Lingjia Tang, 2
+Long Zheng 0003, 2
+Lukas Stadler, 2
+Luís F. W. Góes, 2
+Magnus Själander, 2
+Manjunath Kudlur, 2
+Marc Berndl, 2
+Marius Pirvu, 2
+Mark Stephenson, 2
+Maroua Maalej, 2
+Matthew J. Bridges, 2
+Mauricio J. Serrano, 2
+Mian Lu, 2
+Michael Bedford Taylor, 2
+Michael F. Spear, 2
+Michael Franz, 2
+Michael Hind, 2
+Michael L. Chu, 2
+Michel Steuwer, 2
+Mikhail Smelyanskiy, 2
+Milind Chabbi, 2
+Nathan Clark, 2
+Naveen Kumar 0002, 2
+Niranjan Hasabnis, 2
+Olivier Temam, 2
+Paolo Bientinesi, 2
+Patricia Suriana, 2
+Peng Guo, 2
+Peng Jiang, 2
+Peter Marwedel, 2
+Pramod Ramarao, 2
+Prasad A. Kulkarni, 2
+Priya Nagpurkar, 2
+Probir Roy, 2
+Qi Zhang, 2
+Qiang Zeng 0001, 2
+Rajiv A. Ravindran, 2
+Rajkishore Barik, 2
+Raksit Ashok, 2
+Ramesh Peri, 2
+Rei Odaira, 2
+Richard Johnson, 2
+Robert S. Cohn, 2
+Roni Rosner, 2
+Sally A. McKee, 2
+Sandya Mannarswamy, 2
+Sanjay V. Rajopadhye, 2
+Santosh Pande, 2
+Sara S. Baghsorkhi, 2
+Sebastian Winkel, 2
+Shih-Wei Liao, 2
+Shin-Ming Liu, 2
+Shuaiwen Leon Song, 2
+Silvius Rus, 2
+Simone Campanoni, 2
+Soham Chakraborty, 2
+Soo-Mook Moon, 2
+Spyridon Triantafyllis, 2
+Sriram Krishnamoorthy, 2
+Stephen R. Beard, 2
+Steven S. Lumetta, 2
+Subhajit Roy, 2
+Sudhakar Yalamanchili, 2
+Tao Zhang, 2
+Tatsushi Inagaki, 2
+Thomas R. Gross, 2
+Tiark Rompf, 2
+Timothy Garnett, 2
+Timothy Sherwood, 2
+Tong Chen, 2
+Tongping Liu, 2
+Valeria Bertacco, 2
+Vasileios Spiliopoulos, 2
+Viktor Vafeiadis, 2
+Vineeth Kashyap, 2
+Vinod Grover, 2
+Vitor Paisante, 2
+Wei Huo, 2
+Wenguang Chen, 2
+William Arthur, 2
+William Jalby, 2
+Xiaofei Liao, 2
+Xiaoming Li, 2
+Xinwei Xie, 2
+Xipeng Shen, 2
+Yale N. Patt, 2
+Yang Ni, 2
+Yuelu Duan, 2
+Yun Zhang 0005, 2
+Zhaohui Du, 2
+Zhenjiang Wang, 2
+Zhiyuan Li, 2
+A. Dreweke, 1
+Abbas Heydarnoori, 1
+Abdurrahman Akkas, 1
+Abhishek Udupa, 1
+Ada Gavrilovska, 1
+Adarsh Yoga, 1
+Aditya V. Thakur, 1
+Ajay Panyala, 1
+Alain Ketterlin, 1
+Alan Edelman, 1
+Alastair Colin Murray, 1
+Albert Hartono, 1
+Alberto Magni, 1
+Alberto Ros, 1
+Alejandro Martínez, 1
+Aleksandar Brankovic, 1
+Aleksandar Prokopec, 1
+Alen Bardizbanyan, 1
+Alen Stojanov, 1
+Alex Aletà, 1
+Alex Bennée, 1
+Alex Settle, 1
+Alex Shye, 1
+Alexander Astapchuk, 1
+Alexander Klaiber, 1
+Alexey Spiridonov, 1
+Alok Mishra, 1
+Amir Hormati, 1
+Amir Kavyan Ziabari, 1
+Amit Sasturkar, 1
+Amoghavarsha Suresh, 1
+Amy Wang, 1
+Anand Venkat, 1
+Anant Agarwal, 1
+Andrea Rosà, 1
+Andreas Fried, 1
+Andreas Koch 0001, 1
+Andreas Sembrant, 1
+Andrei Homescu, 1
+Andrew Adams, 1
+Andrew Anderson 0001, 1
+Andrew Kerr, 1
+Andrès Márquez, 1
+Andy Georges, 1
+Andy Yoo, 1
+Ang Li, 1
+Angela Demke Brown, 1
+Anne M. Holler, 1
+Anshuman Dasgupta, 1
+Ansuman Banerjee, 1
+Anupama Chandrasekhar, 1
+Anwar M. Ghuloum, 1
+Apan Qasem, 1
+Aravind Sukumaran-Rajam, 1
+Ari B. Hayes, 1
+Ari Schmorak, 1
+Aritra Sengupta, 1
+Armand Navabi, 1
+Arquimedes Canedo, 1
+Artem Belevich, 1
+Artem Pyatakov, 1
+Artur Andrzejak, 1
+Arvind K. Sujeeth, 1
+Ashish Misra, 1
+Ashwin M. Aji, 1
+Ava Jarvis, 1
+Ayal Zaks, 1
+Banit Agrawal, 1
+Barbara M. Chapman, 1
+Bastiaan Aarts, 1
+Bastian Hagedorn, 1
+Ben H. H. Juurlink, 1
+Ben Hertzberg, 1
+Ben Mehne, 1
+Benjamin Vitale, 1
+Bernhard Egger, 1
+Bernhard Scholz, 1
+Bertrand A. Maher, 1
+Bertrand Maher, 1
+Bharath Narasimha Swamy, 1
+Bhaskar Sardar, 1
+Biagio Cosenza, 1
+Bilha Mendelson, 1
+Bill Nell, 1
+Bill Yoder, 1
+Bin Bao, 1
+Biruk Mammo, 1
+Biwei Xie, 1
+Bjarke Roune, 1
+Bo Qiao, 1
+Bo Wu 0002, 1
+Bolei Guo, 1
+Boubacar Diouf, 1
+Brandon Lucia, 1
+Brandon Neth, 1
+Bratin Saha, 1
+Breno Guimaraes, 1
+Brian Fahs, 1
+Brian Grant, 1
+Bronis R. de Supinski, 1
+Buqi Cheng, 1
+Calvin Lin, 1
+Carol Eidt, 1
+Catherine Olschanowsky, 1
+Chadi Akel, 1
+Changhee Jung, 1
+Chao Li 0004, 1
+Chao Wang, 1
+Chao Zhang, 1
+Charles Anderson, 1
+Charles Tucker, 1
+Chelsea LeBlanc, 1
+Chengliang Zhang, 1
+Chi-Keung Luk, 1
+Chien-Min Wang, 1
+Choonki Jang, 1
+Chris C. J. Newburn, 1
+Chris Cummins, 1
+Chris Grzegorczyk, 1
+Chris J. Newburn, 1
+Chris Lattner, 1
+Chris Leary, 1
+Christian Tenllado, 1
+Christof Fetzer, 1
+Christopher B. Colohan, 1
+Christopher Curtis, 1
+Christopher De Sa, 1
+Christopher Erb, 1
+Christopher I. Rodrigues, 1
+Christopher K. I. Williams, 1
+Christopher Lupo, 1
+Christopher R. Aberger, 1
+Christos D. Antonopoulos, 1
+Chun Chen, 1
+Chun-Chen Hsu, 1
+Clark Verbrugge, 1
+Congming Chen, 1
+Corinne Ancourt, 1
+Cosmin E. Oancea, 1
+Cy P. Chan, 1
+D. Schell, 1
+Dan Connors, 1
+Dan Zhang, 1
+Daniel A. Connors, 1
+Daniel Berlin, 1
+Daniel Cordes, 1
+Daniel Grund, 1
+Daniel Maier, 1
+Daniel T. Grissom, 1
+Daniel W. Williams, 1
+Daniele Bonetta, 1
+Daniele Cono D&apos;Elia, 1
+Danilo Ansaloni, 1
+Darko Kirovski, 1
+Daryl Maier, 1
+David Detlefs, 1
+David Dice, 1
+David Eklov, 1
+David F. Richards, 1
+David Koes, 1
+David L. Dill, 1
+David Ryan Koes, 1
+David Wentzlaff, 1
+David Yuste, 1
+Dayong Gu, 1
+Deepak Majeti, 1
+Depei Qian, 1
+Di Xu, 1
+Diego Costa, 1
+Diego Fabregat-Traver, 1
+Ding Ye, 1
+Ding-Yong Hong, 1
+Dominik Grewe, 1
+Dominique Chanet, 1
+Donald Yeung, 1
+Dong Nguyen, 1
+Dong-Heon Jung, 1
+Donghwan Jeon, 1
+Dongkeun Kim, 1
+Dongrui Fan, 1
+Dongyoon Lee, 1
+Doug Burger, 1
+Douglas W. Clark, 1
+Du Shen, 1
+Duane Szafron, 1
+Duseok Kang, 1
+Eddie C. Davis, 1
+Eduardo Rosales, 1
+Edward Lee, 1
+Eli Bendersky, 1
+Emanuele Del Sozzo, 1
+Emilio Coppa, 1
+Emilio G. Cota, 1
+Emmanuel Yashchin, 1
+Erez Perelman, 1
+Eric D. Marsman, 1
+Eric Kaczmarek, 1
+Eric Lin, 1
+Eric Van Hensbergen, 1
+Erick Bauman, 1
+Erik Eckstein, 1
+Erik R. Altman, 1
+Esfir Natanzon, 1
+Evelyn Duesterwald, 1
+Evgeniy Stepanov, 1
+Evgueni Brevnov, 1
+Fang Lu, 1
+Fei Hua, 1
+Feng Li, 1
+Feng Liu, 1
+Feng Qian, 1
+Feng Zhang, 1
+Feng Zhang 0007, 1
+Fernando Magno Quintao Pereira, 1
+Filippo Schiavio, 1
+Florent Bouchez, 1
+Florian T. Schneider, 1
+Francesco Spadini, 1
+Francky Catthoor, 1
+Frank Hannig, 1
+François de Ferrière, 1
+Fredrik Kjolstad, 1
+Frédéric de Mesmay, 1
+Gabriel Rodríguez 0001, 1
+Gadi Haber, 1
+Ganesh S. Dasika, 1
+Gang Chen, 1
+Garry P. Nolan, 1
+Gem Dot, 1
+George A. Reis, 1
+Gerolf Hoflehner, 1
+Gilles Duboscq, 1
+Girish Mururu, 1
+Graham D. Price, 1
+Greg Bronevetsky, 1
+Gregory F. Diamos, 1
+Gregory Frederick Diamos, 1
+Gregory R. Andrews, 1
+Gregory Rodgers, 1
+Guangli Li, 1
+Guangyu Chen, 1
+Guido Araujo, 1
+Guofei Jiang, 1
+Guoqing (Harry) Xu, 1
+Haicheng Wu, 1
+Haichuan Wang, 1
+Haifeng He, 1
+Haitao Wei, 1
+Haiyang Sun, 1
+Hanjun Kim, 1
+Hans-Juergen Boehm, 1
+Hao Zhou, 1
+Hee-Seok Kim, 1
+Heidi E. Ziegler, 1
+Henk Corporaal, 1
+Henrik Barthels, 1
+Henrique Nazaré Santos, 1
+Hiroshi Inoue, 1
+Hiroshige Hayashizaki, 1
+Hochan Lee, 1
+Hoi Vo, 1
+Hong Wang 0003, 1
+Hongjun Choi, 1
+Hongtao Yu, 1
+Hongwei Liao, 1
+Hongyu Liu, 1
+Hridesh Rajan, 1
+Hsien-Hsin S. Lee, 1
+Huafei Yu, 1
+Hui Zhang 0002, 1
+Huibo Wang, 1
+Huiyang Zhou, 1
+Huynh Phung Huyng, 1
+Huynh Phung Huynh, 1
+Hyeong-Seok Oh, 1
+HyoukJoong Lee, 1
+Hyunchul Park, 1
+Hyunchul Park 0001, 1
+Ian Buck, 1
+Ian Gartley, 1
+Ignacio Laguna, 1
+Igor Böhm, 1
+Igor Rafael de Assis Costa, 1
+Ingrid Fischer, 1
+Inés Fernando Vega López, 1
+Ioana Cutcutache, 1
+Ira Rosen, 1
+Irene Finocchi, 1
+Iulian Neamtiu, 1
+Ivan D. Baev, 1
+Ivan Jibaja, 1
+Ivan Matosevic, 1
+Ivaylo Toskov, 1
+Izzat El Hajj, 1
+J. Gregory Steffan, 1
+J. Ramanujam, 1
+Jacob Nelson, 1
+Jaejin Lee, 1
+Jaewook Shin, 1
+James A. Jablin, 1
+James C. Dehnert, 1
+James Cownie, 1
+James H. Burrill, 1
+James M. Stichnoth, 1
+James Pallister, 1
+James R. Larus, 1
+James W. Thomas, 1
+Jan C. Kleinsorge, 1
+Jan Riehme, 1
+Jan-Jan Wu, 1
+Jason Ansel, 1
+Jason Hiser, 1
+Jason McCandless, 1
+Jay Bharadwaj, 1
+Jay P. Lim, 1
+Jean Pierre Giacalone, 1
+Jean-Francois Collard, 1
+Jeanne Ferrante, 1
+Jennifer Widom, 1
+Jens Deussen, 1
+Jeremy G. Siek, 1
+Jeremy Lau, 1
+Jessica Ray, 1
+Jia-Ju Bai, 1
+Jianfeng Zhan, 1
+Jianhui Li, 1
+Jidong Zhai, 1
+Jieshan Zhao, 1
+Jim Mattson, 1
+Jin Huang, 1
+Jin Lin, 1
+JinSeok Oh, 1
+Jing Yu, 1
+Jingyue Wu, 1
+Jinpyo Kim, 1
+Jinquan Dai, 1
+Jinsung Kim, 1
+Johannes Doerfert, 1
+John Cuthbertson, 1
+John Earnest, 1
+John Feo, 1
+John P. Banning, 1
+John Paul Shen, 1
+John Sartori, 1
+John Thomson, 1
+John Trimble, 1
+Jon Calhoun, 1
+Jon Gibson, 1
+Jonas Maebe, 1
+Jonatan Waern, 1
+Jonathan Chang, 1
+Jonathan Levesque, 1
+Jong-Deok Choi, 1
+Jongeun Lee, 1
+Jordan Fix, 1
+Josef Eisl, 1
+Joseph B. Manzano, 1
+José A. Joao, 1
+José Ignacio Gómez, 1
+José M. Andión, 1
+Juan Carlos Juega, 1
+Juan Gómez-Luna, 1
+Juan Touriño, 1
+Juan del Cuvillo, 1
+Julian Oppermann, 1
+Jun Lee, 1
+Junghwan Rhee, 1
+Junjie Gu, 1
+Junjie Lai, 1
+Junqiao Qiu, 1
+Junqing Yu, 1
+Justin Emile Gottschlich, 1
+Justin Holewinski, 1
+Justin Quek, 1
+Jürgen Teich, 1
+Kai Tian, 1
+Kaiyu Chen, 1
+Karthikeyan Sankaralingam, 1
+Kei Hiraki, 1
+Keith D. Cooper, 1
+Kent D. Wilken, 1
+Kerstin Eder, 1
+Kevin J. Brown, 1
+Kevin O&apos;Brien, 1
+Kevin Scott, 1
+Kim-Anh Tran, 1
+Kirk Kelsey, 1
+Kiyoung Choi, 1
+Koen De Bosschere, 1
+Konrad Trifunovic, 1
+Konstantin Bobrovsky, 1
+Konstantin Serebryany, 1
+Konstantinos Parasyris, 1
+Kris Venstermans, 1
+Kyle Dewey, 1
+Kyriakos Stavrou, 1
+Lakshminarayanan Renganarayanan, 1
+Lan Gao, 1
+Lannan Luo, 1
+Lap-Chung Lam, 1
+Larisa Stoltzfus, 1
+Larry Rudolph, 1
+Lars Clausen, 1
+Laurie J. Hendren, 1
+Lawrence C. McAfee, 1
+Lawrence Rauchwerger, 1
+Lei Liu, 1
+Lei Shang 0002, 1
+Leonardo Barbosa e Oliveira, 1
+Li Tan, 1
+Liang Han, 1
+Lide Duan, 1
+Linchuan Chen, 1
+Lixia Liu, 1
+Lixin Su, 1
+Lixin Zhang 0002, 1
+Lizy Kurian John, 1
+Long Li, 1
+Lou J. Somers, 1
+Luca Della Toffola, 1
+Luca P. Carloni, 1
+Luis A. Lozano, 1
+Luis Ceze, 1
+Lujie Zhong, 1
+Lukas Sommer, 1
+Luke N. Olson, 1
+Lydia Y. Chen, 1
+Lénaïc Bagnères, 1
+M. Aater Suleman, 1
+Mack Stallcup, 1
+Madhavi Gopal Valluri, 1
+Maged M. Michael, 1
+Maksim Panchenko, 1
+Malcom Gethers, 1
+Malek Ben Romdhane, 1
+Man Cao, 1
+Manish K. Gupta, 1
+Mansureh S. Moghaddam, 1
+Manu Shantharam, 1
+Marc González Tallada, 1
+Marc Snir, 1
+Marc Toussaint, 1
+Marc Wörlein, 1
+Marc de Kruijf, 1
+Marcel Baunach, 1
+Marcel Köster, 1
+Marcelo Cintra, 1
+Marcin Copik, 1
+Marco A. Alvarez, 1
+Marcos Yukio Siraichi, 1
+Marcus Rodrigues, 1
+Marek Olszewski, 1
+Mark Hampton, 1
+Mark Heffernan, 1
+Marsha Eng, 1
+Martha A. Kim, 1
+Martin Burtscher, 1
+Martin Kong, 1
+Martin Meinhold, 1
+Martin Schulz 0001, 1
+Martin Süßkraut, 1
+Martin Thuresson, 1
+Mateus Tymburibá, 1
+Mathew Zaleski, 1
+Mats Brorsson, 1
+Matthew Arnold, 1
+Matthew Ho, 1
+Maxim Gurevich, 1
+Mehdi Amini, 1
+Melanie Kambadur, 1
+Miaobo Chen, 1
+Michael D. Linderman, 1
+Michael D. McCool, 1
+Michael D. Smith 0001, 1
+Michael Dupré, 1
+Michael Garland, 1
+Michael K. Chen, 1
+Michael Kruse, 1
+Michael L. Scott, 1
+Michael Philippsen, 1
+Michael Pradel, 1
+Michal Cierniak, 1
+Mihai Budiu, 1
+Mihail Popov, 1
+Mikael Collin, 1
+Mike Collins, 1
+Mike Fulton, 1
+Mike Murphy, 1
+Mikko H. Lipasti, 1
+Milenko Drinic, 1
+Milind Girkar, 1
+Milind Kulkarni 0001, 1
+Milo M. K. Martin, 1
+Min Feng 0001, 1
+Min Zhao, 1
+Mingwei Zhang, 1
+Misiker Tadesse Aga, 1
+Mithuna Soundararaj, 1
+Mojtaba Mehrara, 1
+Molham Aref, 1
+Moriyoshi Ohara, 1
+Moshe Klausner, 1
+Motohiro Kawahito, 1
+Moumita Das, 1
+Murali Krishna Emani, 1
+Murray Cole, 1
+Mustafa Karaköy, 1
+Muthu Manikandan Baskaran, 1
+Myra B. Cohen, 1
+Naftali Schwartz, 1
+Naila Farooqui, 1
+Nana B. Sam, 1
+Nathalie Drach, 1
+Nathan Chong, 1
+Naveen Neelakantam, 1
+Naznin Fauzia, 1
+Neil Birkbeck, 1
+Nicholas Nethercote, 1
+Nicolas Vasilache, 1
+Nikola Grcevski, 1
+Nikolaos Bellas, 1
+Nikos Nikoleris, 1
+Nilanjan Goswami, 1
+Nipun Arora, 1
+Nir Shavit, 1
+Nisheeth Shrivastava, 1
+Nishkam Ravi, 1
+Norm Rubin, 1
+Oleksandr Zinenko, 1
+Oliver Reiche, 1
+Orna Etzion, 1
+Oscar Castro-Lopez, 1
+Ozcan Ozturk 0001, 1
+P. Geoffrey Lowney, 1
+P. J. Joseph, 1
+Pablo de Oliveira Castro, 1
+Pangfeng Liu, 1
+Pankaj Mistry, 1
+Paolo Bonzini, 1
+Patrick Carribault, 1
+Patrick W. Sathyanathan, 1
+Paul Berube, 1
+Paul Lokuciejewski, 1
+Paul Yuan, 1
+Pedro Ramos, 1
+Peng Di, 1
+Peng Liu, 1
+Peng Liu 0005, 1
+Per Ekemark, 1
+Per Larsen, 1
+Per Larsson-Edefors, 1
+Per Stenström, 1
+Perry H. Wang, 1
+Peter Ahrens, 1
+Peter F. Sweeney, 1
+Peter Gavin, 1
+Philip Brisk, 1
+Philip Ginsbach, 1
+Philippe Clauss, 1
+Pierre Salverda, 1
+Po-Yu Chen, 1
+Pracheeti D. Nagarkar, 1
+Prakash Prabhu, 1
+Pramod G. Joisha, 1
+Prasanna Pandit, 1
+Prateek Saxena, 1
+Pratik Ashar, 1
+Praveen Yedlapalli, 1
+Prithviraj Banerjee, 1
+Péricles Rafael Oliveira Alves, 1
+Qi Guo, 1
+Qiang Wu, 1
+Qing Jiao, 1
+Qing Yi, 1
+Qinggang Wang, 1
+Qiong Cai, 1
+Rafael Auler, 1
+Rafael Ubal, 1
+Rahul Joshi, 1
+Rajeshwar Vanka, 1
+Rakesh Krishnaiyer, 1
+Ralf Karrenberg, 1
+Ramon Canal, 1
+Ramshankar Chouhan, 1
+Raphael Ernani Rodrigues, 1
+Rashid Kaleem, 1
+Rayson Ho, 1
+Raúl Silvera, 1
+Reetuparna Das, 1
+Reid Copeland, 1
+Renata Martins Gomes, 1
+Ricardo Nabinger Sanchez, 1
+Ricardo Rodriguez, 1
+Richard B. Brown, 1
+Richard E. Hank, 1
+Richard Henderson, 1
+Richard T. Snodgrass, 1
+Richard Wolski, 1
+Rick Siow Mong Goh, 1
+Riyadh Baghdadi, 1
+Rob Springer, 1
+Robert Cohn, 1
+Robert Griesemer, 1
+Robert H. Kuhn, 1
+Robert M. Senger, 1
+Robert Muth, 1
+Robert S. Schreiber, 1
+Roberto Palmieri, 1
+Robin Kruppe, 1
+Robyn Sampson, 1
+Rodric M. Rabbah, 1
+Roland Leißa, 1
+Romolo Marotta, 1
+Ronny Krashinsky, 1
+Rubens E. A. Moreira, 1
+Rudolf Eigenmann, 1
+Rui Qiao, 1
+Rui Wang 0014, 1
+Rui Zhang, 1
+Ruiqin Tian, 1
+Ruizhe Zhao, 1
+Rupesh Nasre, 1
+S. Velusamy, 1
+Sain-Zee Ueng, 1
+Sam Ainsworth, 1
+Sam Kamin, 1
+Sam S. Stone, 1
+Sam Silvestro, 1
+Sameer Kulkarni, 1
+Sander Stuijk, 1
+Sandhya Viswanathan, 1
+Sandro Bartolini, 1
+Sandya S. Mannarswamy, 1
+Sanghoon Lee 0006, 1
+Sangmin Seo, 1
+Sanjay J. Patel, 1
+Sanjeev Banerji, 1
+Sanket Tavarageri, 1
+Sara-Jane Dunn, 1
+Sasa Misailovic, 1
+Sascha Plazar, 1
+Saturnino Garcia, 1
+Saumya Debray, 1
+Saumya K. Debray, 1
+Saurabh Bagchi, 1
+Savvas Sioutas, 1
+Scott McFarling, 1
+Sean Baxter, 1
+Sebastian Buchwald, 1
+Semih Salihoglu, 1
+Sergei Dyshel, 1
+Sergei Gorlatch, 1
+Seung Woo Son, 1
+Shai Rotem, 1
+Shalom Goldenberg, 1
+Shane Ryoo, 1
+Shashidhar Mysore, 1
+Sheng-Yu Fu, 1
+Shengqian Yang, 1
+Shi-Min Hu, 1
+Shih-wei Liao, 1
+Shiqing Ma, 1
+Shiwen Hu, 1
+Shruthi Hebbur Prasanna Kumar, 1
+Shu Xu, 1
+Shuhan Ding, 1
+Simon D. Hammond, 1
+Simon Garcia De Gonzalo, 1
+Simon J. Hollis, 1
+Sitao Huang, 1
+Somu Perianayagam, 1
+Soner Önder, 1
+Song Wu 0001, 1
+Soonhoi Ha, 1
+Soumyadeep Ghosh, 1
+Spyros Lalis, 1
+Srimat T. Chakradhar, 1
+Sriraman Tallam, 1
+Stefan Brunthaler, 1
+Stefan Schäckeler, 1
+Stefan Weigert, 1
+Stefanus Du Toit, 1
+Stephen J. Fink, 1
+Stephen M. Blackburn, 1
+Stephen W. Keckler, 1
+Steve Zdancewic, 1
+Steven Neisius, 1
+Steven Wallace, 1
+Stéphane Huot, 1
+Stéphane Lafortune, 1
+Subhash Suri, 1
+Subrata Mitra, 1
+Suhyun Kim, 1
+Sukjin Kim, 1
+Sungdo Moon, 1
+Sungpack Hong, 1
+Sunil Shrestha, 1
+Sunil Soman, 1
+Surender Baswana, 1
+Suresh Jagannathan, 1
+Suresh Srinivas, 1
+Susanta Nanda, 1
+Sven Verdoolaege, 1
+Sylvain Collange, 1
+Sébastien Donadio, 1
+Taewook Oh, 1
+Takeo Yoshizawa, 1
+Takuya Nakaike, 1
+Tao Li 0006, 1
+Tarek S. Abdelrahman, 1
+Taylan Yemliha, 1
+Ten H. Tzen, 1
+Terence Kelly, 1
+Teresa H. Y. Meng, 1
+Teresa Johnson, 1
+Thiago S. F. X. Teixeira, 1
+Thomas Henretty, 1
+Thomas Kistler, 1
+Thomas Knauth, 1
+Thomas Kotzmann, 1
+Thomas Raoux, 1
+Thorsten Meinl, 1
+Tianshi Chen, 1
+Tim Sheard, 1
+Timothy Mattson, 1
+Ting Cao, 1
+Tobias J. K. Edler von Koch, 1
+Todd C. Mowry, 1
+Todd Mytkowicz, 1
+Tom Conte, 1
+Tomi Poutanen, 1
+Tomofumi Yuki, 1
+Tongxin Bai, 1
+Toomas Remmelg, 1
+Toshihiko Koju, 1
+Trevor E. Carlson, 1
+Trevor N. Mudge, 1
+Tulika Mitra, 1
+Tushar Mohan, 1
+Twan Basten, 1
+Tyler Sondag, 1
+Tzi-cker Chiueh, 1
+Tzu-Han Hung, 1
+Ute Schiffel, 1
+Uwe Naumann, 1
+V. Krishna Nandivada, 1
+V. T. Rajan, 1
+Vadim Eisenberg, 1
+Vaivaswatha Nagaraj, 1
+Valery Ushakov, 1
+Varun Puranik, 1
+Vassilis Vassiliadis, 1
+Victor Hugo Sperle Campos, 1
+Victor Ying, 1
+Vijay Menon, 1
+Vikram S. Adve, 1
+Vineeth Thumma, 1
+Vinodha Ramasamy, 1
+Vinícius Fernandes dos Santos, 1
+Vivek Sarkar, 1
+Vlad-Mihai Panait, 1
+Vladimir Kiriansky, 1
+Wai Teng Tang, 1
+Wanling Gao, 1
+Wei Hu, 1
+Wei Li 0020, 1
+Wei Liu, 1
+Wei Liu 0014, 1
+Wei Pan, 1
+Weihaw Chuang, 1
+Weijia Shang, 1
+Weimin Zheng, 1
+Weiwu Hu, 1
+Wen-Chuan Lee, 1
+Wen-Mei Hwu, 1
+Wenjia Ruan, 1
+Wenlei He, 1
+William F. Ogilvie, 1
+William Gropp, 1
+Witawas Srisa-an, 1
+Wolfram Schulte, 1
+Xavier Leroy, 1
+Xiang Gong, 1
+Xiang Zou, 1
+Xiangke Liao, 1
+Xiangyu Zhang, 1
+Xiaochun Zhang, 1
+Xiaojiang Du, 1
+Xiaoru Dai, 1
+Xiaoyin Wang, 1
+Xibai Li, 1
+Xing Su, 1
+Xing Zhou, 1
+Xinliang D. Li, 1
+Xinmin Tian, 1
+Xinwei Fu, 1
+Xiwen He, 1
+Xu Liu, 1
+Xuetian Weng, 1
+Yan Wang, 1
+Yan-Hao Chen, 1
+Yang Yang, 1
+Yaoqing Gao, 1
+Yee Lok Wong, 1
+Yeh-Ching Chung, 1
+Yeonbok Lee, 1
+Yevgen Voronenko, 1
+Yi Yang, 1
+Yin Wang 0001, 1
+Yingqi Liu, 1
+Yoav Almog, 1
+Yoav Zach, 1
+Yonghae Kim, 1
+Yonghua Ding, 1
+Yongjian Chen, 1
+Yongpeng Zhang, 1
+Yoonseo Choi, 1
+Young Wang, 1
+Youngchul Cho, 1
+Yu Shang, 1
+Yu-Ping Wang, 1
+Yuan Lin 0002, 1
+Yue Li 0006, 1
+Yujie Liu, 1
+Yun Liang 0001, 1
+Yun Zou, 1
+Yunji Chen, 1
+Yunlian Jiang, 1
+Yunlong Xu, 1
+Yunming Zhang, 1
+Yunsup Lee, 1
+Yuriy Kashnikov, 1
+Zehra Sura, 1
+Zhanglin Liu, 1
+Zhaoqing Zhang, 1
+Zhelong Pan, 1
+Zhen Jia, 1
+Zhen Lin, 1
+Zhenying Liu, 1
+Zhi-Gang Wang, 1
+Zhijia Zhao 0001, 1
+Zhiqiang Lin, 1
+Zhiyun Qian, 1
+Zhizhong Tang, 1
+Zhongliang Chen, 1
+Zhoujun Li, 1
+Ziang Hu, 1
+Zoltan Majo, 1
+Zoltán Herczeg, 1

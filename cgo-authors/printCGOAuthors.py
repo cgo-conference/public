@@ -1,4 +1,5 @@
 import requests
+from collections import Counter
 
 
 def cgo_url(y):
@@ -25,9 +26,9 @@ for year in range(start_year, end_year+1):
             except KeyError:
                 pass
 
-unique_authors = list(set(all_authors))
-unique_authors.sort()
+all_authors.sort()
+authors_and_count = Counter(all_authors)
 
 with open("cgo_author_list_" + str(start_year) + "-" + str(end_year) + ".txt", "w", encoding='utf-8') as f:
-    for author in unique_authors:
-        f.write("%s\n" % author)
+    for author, count in authors_and_count.most_common():
+        f.write("%s, %s\n" % (author, count))
