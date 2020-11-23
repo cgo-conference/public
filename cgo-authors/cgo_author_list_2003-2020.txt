@@ -1,17 +1,17 @@
-Scott A. Mahlke, 13
+Scott A. Mahlke, 14
 David I. August, 12
 Jingling Xue, 11
 Robert Hundt, 11
-Saman P. Amarasinghe, 10
+Saman P. Amarasinghe, 11
 Wei-Chung Hsu, 10
 Youfeng Wu, 10
 Mahmut T. Kandemir, 9
+Xu Liu 0001, 9
 Cheng Wang 0013, 8
 Fernando Magno Quintão Pereira, 8
 Michael F. P. O&apos;Boyle, 8
-Xu Liu 0001, 8
+Pen-Chung Yew, 8
 Derek Bruening, 7
-Pen-Chung Yew, 7
 R. Govindarajan, 7
 Antonio González 0001, 6
 David A. Padua, 6
@@ -22,14 +22,17 @@ Mary Lou Soffa, 6
 Neil Vachharajani, 6
 Xiaobing Feng 0002, 6
 Albert Cohen 0001, 5
+Hugh Leather, 5
 Jason Mars, 5
 John Cavazos, 5
+Louis-Noël Pouchet, 5
 Mark G. Stoodley, 5
 Markus Püschel, 5
 P. Sadayappan, 5
 Qin Zhao, 5
 Rajiv Gupta 0001, 5
 Sebastian Hack, 5
+Timothy M. Jones 0001, 5
 Tipp Moseley, 5
 Zheng Wang 0001, 5
 Ali-Reza Adl-Tabatabai, 4
@@ -44,14 +47,13 @@ Guang R. Gao, 4
 Guilherme Ottoni, 4
 Hanspeter Mössenböck, 4
 Harish Patil, 4
-Hugh Leather, 4
 Kim M. Hazelwood, 4
-Louis-Noël Pouchet, 4
 Mary W. Hall, 4
 María Jesús Garzarán, 4
+Pavlos Petoumenos, 4
 Peng Wu 0001, 4
+Shoaib Kamil, 4
 Thomas B. Jablin, 4
-Timothy M. Jones 0001, 4
 Todd M. Austin, 4
 Vijay Janapa Reddi, 4
 Vijay Sundaresan, 4
@@ -59,8 +61,10 @@ Wen-mei W. Hwu, 4
 Xiangyu Zhang 0001, 4
 Aaron Smith, 3
 Alexandra Jimborean, 3
+Antonia Zhai, 3
 Atanas Rountev, 3
 Ben Hardekopf, 3
+Bin Ren, 3
 Brian T. Lewis, 3
 Chenggang Wu 0002, 3
 Christian Wimmer, 3
@@ -87,16 +91,17 @@ John M. Mellor-Crummey, 3
 José Nelson Amaral, 3
 Jun Liu 0008, 3
 Kathryn S. McKinley, 3
+Krste Asanovic, 3
 Lei Wang 0004, 3
 Lieven Eeckhout, 3
 Manish Vachharajani, 3
+Mark Stephenson, 3
 Matthew J. Thazhuthaveetil, 3
 Maurício Breternitz Jr., 3
 Michael D. Bond, 3
 Michelle Mills Strout, 3
 Nick P. Johnson, 3
 Onur Mutlu, 3
-Pavlos Petoumenos, 3
 R. Sekar, 3
 Ram Rangan, 3
 Ramaswamy Govindarajan, 3
@@ -104,8 +109,9 @@ Rodrigo C. O. Rocha, 3
 Santosh Nagarakatte, 3
 Seth Copen Goldstein, 3
 Shiliang Hu, 3
-Shoaib Kamil, 3
+Simone Campanoni, 3
 Stefanos Kaxiras, 3
+Subhajit Roy, 3
 Tatiana Shpeisman, 3
 Thomas Würthinger, 3
 Tobias Grosser, 3
@@ -126,11 +132,9 @@ Alban Douillet, 2
 Alexandre Duchateau, 2
 Alexandre E. Eichenberger, 2
 André Seznec, 2
-Antonia Zhai, 2
 Arun Raman, 2
 Benoit Boissinot, 2
 Benoît Dupont de Dinechin, 2
-Bin Ren, 2
 Bingsheng He, 2
 Bo Huang 0002, 2
 Brad Calder, 2
@@ -139,6 +143,7 @@ Brian R. Murphy, 2
 Byoungro So, 2
 Byron Hawkins, 2
 Camil Demetrescu, 2
+Carol Eidt, 2
 Chen Ding 0001, 2
 Christophe Dubach, 2
 Christophe Guillon, 2
@@ -187,6 +192,7 @@ Jaydeep Marathe, 2
 Jayvant Anantpur, 2
 Jithendra Srinivas, 2
 Jiwei Lu, 2
+John Thomson, 2
 Josep M. Codina, 2
 Joseph L. Greathouse, 2
 Kapil Vaswani, 2
@@ -194,18 +200,18 @@ Kenneth Hoste, 2
 Kevin Fan, 2
 Kevin Williams 0001, 2
 Konstantinos Koukos, 2
-Krste Asanovic, 2
 Laure Gonnord, 2
 Lingjia Tang, 2
 Long Zheng 0003, 2
+Luis Ceze, 2
 Lukas Stadler, 2
 Luís F. W. Góes, 2
 Magnus Själander, 2
 Manjunath Kudlur, 2
 Marc Berndl, 2
 Marius Pirvu, 2
-Mark Stephenson, 2
 Maroua Maalej, 2
+Martin Kong, 2
 Matthew J. Bridges, 2
 Mauricio J. Serrano, 2
 Mian Lu, 2
@@ -226,6 +232,7 @@ Patricia Suriana, 2
 Peng Guo, 2
 Peng Jiang, 2
 Peter Marwedel, 2
+Philip Brisk, 2
 Pramod Ramarao, 2
 Prasad A. Kulkarni, 2
 Priya Nagpurkar, 2
@@ -245,19 +252,19 @@ Sandya Mannarswamy, 2
 Sanjay V. Rajopadhye, 2
 Santosh Pande, 2
 Sara S. Baghsorkhi, 2
+Sasa Misailovic, 2
 Sebastian Winkel, 2
 Shih-Wei Liao, 2
 Shin-Ming Liu, 2
 Shuaiwen Leon Song, 2
 Silvius Rus, 2
-Simone Campanoni, 2
 Soham Chakraborty, 2
 Soo-Mook Moon, 2
 Spyridon Triantafyllis, 2
 Sriram Krishnamoorthy, 2
 Stephen R. Beard, 2
+Stephen W. Keckler, 2
 Steven S. Lumetta, 2
-Subhajit Roy, 2
 Sudhakar Yalamanchili, 2
 Tatsushi Inagaki, 2
 Thomas R. Gross, 2
@@ -273,6 +280,7 @@ Vinod Grover, 2
 Vitor Paisante, 2
 Wei Huo, 2
 Wei Liu 0014, 2
+Wen-Mei Hwu, 2
 Wenguang Chen, 2
 William Arthur, 2
 William Jalby, 2
@@ -284,16 +292,20 @@ Yale N. Patt, 2
 Yang Ni, 2
 Yuelu Duan, 2
 Yun Zhang 0005, 2
+Yunming Zhang, 2
 Zhaohui Du, 2
 Zhenjiang Wang, 2
 Zhiyuan Li 0001, 2
 A. Dreweke, 1
+Aakanksha Verma, 1
 Abbas Heydarnoori, 1
+Abdul Dakkak, 1
 Abdurrahman Akkas, 1
 Abhishek Udupa, 1
 Ada Gavrilovska, 1
 Adarsh Yoga, 1
 Aditya V. Thakur, 1
+Ajay Brahmakshatriya, 1
 Ajay Panyala, 1
 Alain Ketterlin, 1
 Alan Edelman, 1
@@ -312,10 +324,13 @@ Alex Settle, 1
 Alex Shye, 1
 Alexander Astapchuk, 1
 Alexander Klaiber, 1
+Alexandru Ghita, 1
 Alexey Spiridonov, 1
 Alok Mishra, 1
+Ameer Haj-Ali, 1
 Amir Hormati, 1
 Amir Kavyan Ziabari, 1
+Amir Shaikhha, 1
 Amit Sasturkar, 1
 Amoghavarsha Suresh, 1
 Amy Wang, 1
@@ -352,7 +367,9 @@ Artur Andrzejak 0001, 1
 Arvind K. Sujeeth, 1
 Ashish Misra, 1
 Ashwin M. Aji, 1
+Austin Kerbow, 1
 Ava Jarvis, 1
+Awanish Pandey, 1
 Ayal Zaks, 1
 Banit Agrawal, 1
 Barbara M. Chapman, 1
@@ -362,6 +379,7 @@ Ben H. H. Juurlink, 1
 Ben Hertzberg, 1
 Ben Mehne, 1
 Benjamin Vitale, 1
+Berkin Ilbeyi, 1
 Bernhard Egger, 1
 Bernhard Scholz, 1
 Bertrand A. Maher, 1
@@ -389,7 +407,7 @@ Brian Grant, 1
 Bronis R. de Supinski, 1
 Buqi Cheng, 1
 Calvin Lin, 1
-Carol Eidt, 1
+Carl Friedrich Bolz-Tereick, 1
 Catherine Olschanowsky, 1
 Chadi Akel, 1
 Changhee Jung, 1
@@ -413,6 +431,7 @@ Chris Leary, 1
 Christian Tenllado, 1
 Christof Fetzer, 1
 Christopher B. Colohan, 1
+Christopher Batten, 1
 Christopher Curtis, 1
 Christopher De Sa, 1
 Christopher Erb, 1
@@ -430,12 +449,14 @@ Cosmin E. Oancea, 1
 Cy P. Chan, 1
 D. Schell, 1
 Dan Connors, 1
+Dan Olteanu, 1
 Dan Zhang, 1
 Daniel A. Connors, 1
 Daniel Berlin, 1
 Daniel Cordes, 1
 Daniel Grund, 1
 Daniel Maier, 1
+Daniel R. Johnson, 1
 Daniel T. Grissom, 1
 Daniel W. Williams, 1
 Daniele Bonetta, 1
@@ -475,14 +496,17 @@ Du Shen, 1
 Duane Szafron, 1
 Duseok Kang, 1
 Eddie C. Davis, 1
+Eddie Yan, 1
 Eduardo Rosales, 1
 Edward Lee, 1
+Ejebagom John Ojogbo, 1
 Eli Bendersky, 1
 Emanuele Del Sozzo, 1
 Emilio Coppa, 1
 Emilio G. Cota, 1
 Emmanuel Yashchin, 1
 Erez Perelman, 1
+Eric Bodden, 1
 Eric D. Marsman, 1
 Eric Kaczmarek, 1
 Eric Lin, 1
@@ -510,6 +534,7 @@ Frank Hannig, 1
 François de Ferrière, 1
 Fredrik Kjolstad, 1
 Frédéric de Mesmay, 1
+G. Edward Suh, 1
 Gabriel Rodríguez 0001, 1
 Gadi Haber, 1
 Ganesh S. Dasika, 1
@@ -518,6 +543,7 @@ Garry P. Nolan, 1
 Gem Dot, 1
 George A. Reis, 1
 Gerolf Hoflehner, 1
+Ghassan Shobaki, 1
 Gilles Duboscq, 1
 Girish Mururu, 1
 Graham D. Price, 1
@@ -536,6 +562,7 @@ Haichuan Wang, 1
 Haifeng He, 1
 Haitao Wei, 1
 Haiyang Sun, 1
+Hamid Reza Zohouri, 1
 Hanjun Kim 0001, 1
 Hans-Juergen Boehm, 1
 Hao Zhou 0009, 1
@@ -573,6 +600,7 @@ Igor Rafael de Assis Costa, 1
 Ingrid Fischer, 1
 Inés Fernando Vega López, 1
 Ioana Cutcutache, 1
+Ion Stoica, 1
 Ira Rosen, 1
 Irene Finocchi, 1
 Iulian Neamtiu, 1
@@ -580,6 +608,7 @@ Ivan D. Baev, 1
 Ivan Jibaja, 1
 Ivan Matosevic, 1
 Ivaylo Toskov, 1
+Ivy Bo Peng, 1
 Izzat El Hajj, 1
 J. Gregory Steffan, 1
 J. Ramanujam, 1
@@ -587,6 +616,7 @@ Jacob Nelson, 1
 Jaejin Lee, 1
 Jaewook Shin, 1
 James A. Jablin, 1
+James Bornholt, 1
 James C. Dehnert, 1
 James Cownie, 1
 James H. Burrill, 1
@@ -600,6 +630,7 @@ Jan-Jan Wu, 1
 Jason Ansel, 1
 Jason Hiser, 1
 Jason McCandless, 1
+Jason Ott, 1
 Jay Bharadwaj, 1
 Jay P. Lim, 1
 Jean Pierre Giacalone, 1
@@ -624,14 +655,15 @@ Jingyue Wu, 1
 Jinpyo Kim, 1
 Jinquan Dai, 1
 Jinsung Kim, 1
+Joe Savage, 1
 Johannes Doerfert, 1
 John Cuthbertson, 1
 John Earnest, 1
 John Feo, 1
 John P. Banning, 1
 John Paul Shen, 1
+John Regehr, 1
 John Sartori, 1
-John Thomson, 1
 John Trimble, 1
 Jon Calhoun, 1
 Jon Gibson, 1
@@ -651,7 +683,9 @@ Juan Carlos Juega, 1
 Juan Gómez-Luna, 1
 Juan Touriño, 1
 Juan del Cuvillo, 1
+Jubi Taneja, 1
 Julian Oppermann, 1
+Julian Shun, 1
 Jun Lee, 1
 Junghwan Rhee, 1
 Junjie Gu, 1
@@ -664,7 +698,9 @@ Justin Quek, 1
 Jürgen Teich, 1
 Kai Tian, 1
 Kaiyu Chen, 1
+Karim Ali 0001, 1
 Karthikeyan Sankaralingam, 1
+Kazuaki Matsumura, 1
 Kei Hiraki, 1
 Keith D. Cooper, 1
 Kent D. Wilken, 1
@@ -672,6 +708,7 @@ Kerstin Eder, 1
 Kevin J. Brown, 1
 Kevin O&apos;Brien, 1
 Kevin Scott, 1
+Keyur Joshi, 1
 Kim-Anh Tran, 1
 Kirk Kelsey, 1
 Kiyoung Choi, 1
@@ -683,6 +720,7 @@ Konstantinos Parasyris, 1
 Kris Venstermans, 1
 Kyle Dewey, 1
 Kyriakos Stavrou, 1
+Kyunghwan Choi, 1
 Lakshminarayanan Renganarayanan, 1
 Lan Gao, 1
 Lannan Luo, 1
@@ -693,12 +731,14 @@ Lars Clausen, 1
 Laurie J. Hendren, 1
 Lawrence C. McAfee, 1
 Lawrence Rauchwerger, 1
+Laxman Dhulipala, 1
 Lei Liu 0030, 1
 Lei Shang 0002, 1
 Leonardo Barbosa e Oliveira, 1
 Li Tan, 1
 Liang Han, 1
 Lide Duan, 1
+Lin Cheng, 1
 Linchuan Chen, 1
 Lixia Liu, 1
 Lixin Su, 1
@@ -709,7 +749,6 @@ Lou J. Somers, 1
 Luca Della Toffola, 1
 Luca P. Carloni, 1
 Luis A. Lozano, 1
-Luis Ceze, 1
 Lujie Zhong, 1
 Lukas Sommer, 1
 Luke N. Olson, 1
@@ -744,7 +783,6 @@ Mark Heffernan, 1
 Marsha Eng, 1
 Martha A. Kim, 1
 Martin Burtscher, 1
-Martin Kong, 1
 Martin Meinhold, 1
 Martin Schulz 0001, 1
 Martin Süßkraut, 1
@@ -755,6 +793,8 @@ Mats Brorsson, 1
 Matthew Arnold, 1
 Matthew Ho, 1
 Maxim Gurevich, 1
+Maximilian Schleich, 1
+Meghan Cowan, 1
 Mehdi Amini, 1
 Melanie Kambadur, 1
 Miaobo Chen, 1
@@ -766,6 +806,8 @@ Michael Garland, 1
 Michael K. Chen, 1
 Michael Kruse, 1
 Michael L. Scott, 1
+Michael Leonard, 1
+Michael McKeown, 1
 Michael Philippsen, 1
 Michael Pradel, 1
 Michal Cierniak, 1
@@ -785,6 +827,10 @@ Min Zhao 0009, 1
 Mingwei Zhang, 1
 Misiker Tadesse Aga, 1
 Mithuna Soundararaj, 1
+Mithuna Thottethodi, 1
+Mohamed Ismail, 1
+Mohamed Wahib, 1
+Mohammad Mahdi Javanmard, 1
 Mojtaba Mehrara, 1
 Molham Aref, 1
 Moriyoshi Ohara, 1
@@ -804,6 +850,7 @@ Nathan Chong, 1
 Naveen Neelakantam, 1
 Naznin Fauzia, 1
 Neil Birkbeck, 1
+Nesreen K. Ahmed, 1
 Nicholas Nethercote, 1
 Nicolas Vasilache, 1
 Nikola Grcevski, 1
@@ -817,6 +864,7 @@ Nishkam Ravi, 1
 Norm Rubin, 1
 Oleksandr Zinenko, 1
 Oliver Reiche, 1
+Olivier Giroux, 1
 Orna Etzion, 1
 Oscar Castro-Lopez, 1
 Ozcan Ozturk 0001, 1
@@ -824,6 +872,7 @@ P. Geoffrey Lowney, 1
 P. J. Joseph, 1
 Pablo de Oliveira Castro, 1
 Pangfeng Liu, 1
+Pankaj Kumar Kalita, 1
 Pankaj Mistry, 1
 Paolo Bonzini, 1
 Patrick Carribault, 1
@@ -843,7 +892,6 @@ Perry H. Wang, 1
 Peter Ahrens, 1
 Peter F. Sweeney, 1
 Peter Gavin, 1
-Philip Brisk, 1
 Philip Ginsbach, 1
 Philippe Clauss, 1
 Pierre Salverda, 1
@@ -878,6 +926,7 @@ Raúl Silvera, 1
 Reetuparna Das, 1
 Reid Copeland, 1
 Renata Martins Gomes, 1
+Rezaul Chowdhury, 1
 Ricardo Nabinger Sanchez, 1
 Ricardo Rodríguez Jorge, 1
 Richard B. Brown, 1
@@ -891,6 +940,7 @@ Rob Springer, 1
 Robert Cohn, 1
 Robert Griesemer, 1
 Robert H. Kuhn, 1
+Robert J. Harrison, 1
 Robert M. Senger, 1
 Robert Muth, 1
 Robert S. Schreiber, 1
@@ -916,6 +966,7 @@ Sam Kamin, 1
 Sam S. Stone, 1
 Sam Silvestro, 1
 Sameer Kulkarni, 1
+Sana Damani, 1
 Sander Stuijk, 1
 Sandhya Viswanathan, 1
 Sandro Bartolini, 1
@@ -926,8 +977,8 @@ Sanjay J. Patel, 1
 Sanjeev Banerji, 1
 Sanket Tavarageri, 1
 Sara-Jane Dunn, 1
-Sasa Misailovic, 1
 Sascha Plazar, 1
+Satoshi Matsuoka, 1
 Saturnino Garcia, 1
 Saumya Debray, 1
 Saumya K. Debray, 1
@@ -937,6 +988,7 @@ Scott McFarling, 1
 Sean Baxter, 1
 Sebastian Buchwald, 1
 Semih Salihoglu, 1
+Seokwon Kang, 1
 Sergei Dyshel, 1
 Sergei Gorlatch, 1
 Seung Woo Son 0001, 1
@@ -948,6 +1000,7 @@ Sheng-Yu Fu, 1
 Shengqian Yang, 1
 Shi-Min Hu 0001, 1
 Shih-wei Liao, 1
+Shikai Li, 1
 Shiqing Ma, 1
 Shiwen Hu, 1
 Shruthi Hebbur Prasanna Kumar, 1
@@ -965,13 +1018,15 @@ Soumyadeep Ghosh, 1
 Spyros Lalis, 1
 Srimat T. Chakradhar, 1
 Sriraman Tallam, 1
+Stanislav Mekhanoshin, 1
 Stefan Brunthaler, 1
+Stefan Krüger, 1
 Stefan Schäckeler, 1
 Stefan Weigert, 1
 Stefanus Du Toit, 1
 Stephen J. Fink, 1
 Stephen M. Blackburn, 1
-Stephen W. Keckler, 1
+Stephen McCamant, 1
 Steve Zdancewic, 1
 Steven Neisius, 1
 Steven Wallace, 1
@@ -982,6 +1037,7 @@ Subrata Mitra, 1
 Suhyun Kim, 1
 Sukjin Kim, 1
 Sungdo Moon, 1
+Sunghyun Park 0004, 1
 Sungpack Hong, 1
 Sunil Shrestha, 1
 Sunil Soman, 1
@@ -992,25 +1048,31 @@ Susanta Nanda, 1
 Sven Verdoolaege, 1
 Sylvain Collange, 1
 Sébastien Donadio, 1
+T. N. Vijaykumar, 1
 Taewook Oh, 1
 Takeo Yoshizawa, 1
 Takuya Nakaike, 1
+Tanner Gooding, 1
 Tao Li 0006, 1
 Tao Zhang, 1
 Tao Zhang 0037, 1
 Tarek S. Abdelrahman, 1
 Taylan Yemliha, 1
 Ten H. Tzen, 1
+Teng Yu, 1
 Terence Kelly, 1
 Teresa H. Meng, 1
 Teresa Johnson, 1
+Theodore L. Willke, 1
 Thiago S. F. X. Teixeira, 1
+Thierry Moreau, 1
 Thomas Henretty, 1
 Thomas Kistler, 1
 Thomas Knauth, 1
 Thomas Kotzmann, 1
 Thomas Raoux, 1
 Thorsten Meinl, 1
+Tianqi Chen, 1
 Tianshi Chen, 1
 Tim Sheard, 1
 Timothy G. Mattson, 1
@@ -1019,6 +1081,7 @@ Tobias J. K. Edler von Koch, 1
 Todd C. Mowry, 1
 Todd Mytkowicz, 1
 Tom Conte 0001, 1
+Tom Wickham-Jones, 1
 Tomi Poutanen, 1
 Tomofumi Yuki, 1
 Tong Chen 0001, 1
@@ -1026,12 +1089,14 @@ Tong Chen 0010, 1
 Tongxin Bai, 1
 Toomas Remmelg, 1
 Toshihiko Koju, 1
+Toshio Endo, 1
 Trevor E. Carlson, 1
 Trevor N. Mudge, 1
 Tulika Mitra, 1
 Tushar Mohan, 1
 Twan Basten, 1
 Tyler Sondag, 1
+Tyson Loveless, 1
 Tzi-cker Chiueh, 1
 Tzu-Han Hung, 1
 Ute Schiffel, 1
@@ -1047,11 +1112,13 @@ Victor Hugo Sperle Campos, 1
 Victor Ying, 1
 Vijay Menon 0002, 1
 Vikram S. Adve, 1
+Vimuth Fernando, 1
 Vineeth Thumma, 1
 Vinodha Ramasamy, 1
 Vinícius Fernandes dos Santos, 1
 Vivek Sarkar, 1
 Vlad-Mihai Panait, 1
+Vladimir Janjic, 1
 Vladimir Kiriansky, 1
 Wai Teng Tang, 1
 Wanling Gao, 1
@@ -1063,9 +1130,9 @@ Weijia Shang, 1
 Weimin Zheng, 1
 Weiwu Hu, 1
 Wen-Chuan Lee, 1
-Wen-Mei Hwu, 1
 Wenjia Ruan, 1
 Wenlei He, 1
+Wenwen Wang, 1
 William F. Ogilvie, 1
 William Gropp, 1
 Witawas Srisa-an, 1
@@ -1084,8 +1151,10 @@ Xing Zhou, 1
 Xinliang D. Li, 1
 Xinmin Tian, 1
 Xinwei Fu, 1
+Xinyi Chen, 1
 Xiwen He, 1
 Xuetian Weng, 1
+Yakun Sophia Shao, 1
 Yan Wang, 1
 Yan-Hao Chen, 1
 Yang Yang, 1
@@ -1102,10 +1171,12 @@ Yoav Zach, 1
 Yonghae Kim, 1
 Yonghua Ding, 1
 Yongjian Chen, 1
+Yongjun Park, 1
 Yongpeng Zhang, 1
 Yoonseo Choi, 1
 Young Wang, 1
 Youngchul Cho, 1
+Yu Chen 0036, 1
 Yu Shang, 1
 Yu-Ping Wang 0001, 1
 Yuan Lin 0002, 1
@@ -1116,15 +1187,18 @@ Yun Zou, 1
 Yunji Chen, 1
 Yunlian Jiang, 1
 Yunlong Xu, 1
-Yunming Zhang, 1
 Yunsup Lee, 1
 Yuriy Kashnikov, 1
+Zafar Ahmad, 1
+Ze Zhang, 1
 Zehra Sura, 1
 Zhanglin Liu, 1
 Zhaoqing Zhang, 1
 Zhelong Pan, 1
 Zhen Jia 0001, 1
 Zhen Lin, 1
+Zhen Peng, 1
+Zhengyang Liu, 1
 Zhenying Liu, 1
 Zhi-Gang Wang, 1
 Zhijia Zhao 0001, 1

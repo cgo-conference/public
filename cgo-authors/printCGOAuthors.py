@@ -9,7 +9,7 @@ def cgo_url(y):
 all_authors = []
 
 start_year = 2003
-end_year = 2019
+end_year = 2020
 
 for year in range(start_year, end_year+1):
     with requests.get(cgo_url(year)) as r:
@@ -19,10 +19,10 @@ for year in range(start_year, end_year+1):
         for paper in papers:
             try:
                 authors = paper['info']['authors']
-                if isinstance(authors['author'], str):
-                    all_authors.append(authors['author'])
-                elif isinstance(authors['author'], list):
-                    all_authors = all_authors + authors['author']
+                if isinstance(authors['author'], list):
+                    all_authors = all_authors + [a['text'] for a in authors['author']]
+                elif isinstance(authors['author'], dict):
+                    all_authors.append(authors['author']['text'])
             except KeyError:
                 pass
 
